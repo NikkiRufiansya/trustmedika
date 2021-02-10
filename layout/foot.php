@@ -7,7 +7,7 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-contact">
+        <!--   <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Trustmedika</h3>
             <p>
               Office 8, Lt.18-A, SCBD <br>
@@ -15,8 +15,8 @@
               <strong>Phone:</strong> +62 811 143 141<br>
               <strong>Email:</strong> team@trustmedika.id<br>
             </p>
-          </div>
-
+          </div> -->
+<!-- 
           <div class="col-0 col-lg invisible footer-links">
             <h4>Useful Links</h4>
             <ul>
@@ -27,14 +27,14 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
+ -->
+         <!--  <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>
             <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
-          </div>
+          </div> -->
 
         </div>
       </div>
@@ -54,11 +54,11 @@
           Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
         </div>
       </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+  <!--     <div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-      </div>
+      </div> -->
     </div>
   </footer><!-- End Footer -->
  
