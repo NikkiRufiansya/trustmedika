@@ -14,7 +14,7 @@
     <h1>Temukan Klinik</h1>
     <h2>Tes Covid-19 cepat, akurat, dan 
     flexible</h2>
-    <a href="#about" class="btn-get-started scrollto">Get Started</a>
+    <a href="#appointment" class="btn-get-started scrollto">Daftar Sekarang</a>
   </div>
   </section><!-- End Jumbo -->
 
@@ -212,7 +212,7 @@
     <div class="text-center">
       <a href="https://forms.google.com" class="btn btn-utama">
         <i class="bi bi-journal-text"></i>
-        <span class="mx-3"> Menuju Google Forms </span>
+        <span class="mx-3"> Daftar Sekarang Juga </span>
         <i class="bi bi-link-45deg"></i>
       </a>
     </div>
