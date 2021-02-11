@@ -3,9 +3,9 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
 
-    <div class="footer-top">
+<!--     <div class="footer-top">
       <div class="container">
-        <div class="row">
+        <div class="row"> -->
 
         <!--   <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Trustmedika</h3>
@@ -36,9 +36,9 @@
             </form>
           </div> -->
 
-        </div>
+<!--         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="container d-md-flex py-4">
 
