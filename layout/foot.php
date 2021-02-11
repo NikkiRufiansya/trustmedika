@@ -42,7 +42,7 @@
 
     <div class="container d-md-flex py-4">
 
-      <div class="me-md-auto text-center text-md-start">
+      <div class="me-md-auto text-center text-md-start mb-5 mb-md-0">
         <div class="copyright">
           &copy; Copyright <strong><span> PT Konsula Karya Bangsa </span></strong>. All Rights Reserved
         </div>

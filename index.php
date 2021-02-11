@@ -10,11 +10,11 @@
 
   <!-- ======= Jumbo Section ======= -->
   <section id="jumbo" class="d-flex align-items-center">
-    <div class="container">
+    <div class="container mt-5">
       <h1>Temukan Klinik</h1>
       <h2>Tes Covid-19 cepat, akurat, dan 
       flexible</h2>
-      <a href="#appointment" class="btn-get-started scrollto">Daftar Sekarang</a>
+      <a href="#appointment" class="btn-get-started scrollto box-shadow-2">Daftar Sekarang</a>
     </div>
   </section><!-- End Jumbo -->
 
@@ -26,13 +26,13 @@
         <div class="row">
           <div class="col-lg-4 d-flex align-items-stretch">
             <div class="content">
-              <h3>Kenapa Memilih kami ?</h3>
+              <h3>Kenapa Memilih Kami?</h3>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
                 Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
               </p>
               <div class="text-center">
-                <a href="#" class="btn btn-l1 more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+                <a href="#" class="btn btn-l1 more-btn">Pelajari Lebih Lanjut <i class="bx bx-chevron-right"></i></a>
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-receipt"></i>
                     <h4>FLEXIBLE</h4>
-                    <p>Layanan dirumah atau langsung datang ke Klinik ? Tidak menjadi masalah. Flexibilitas layanan Trustmedika membantu Anda tetap aktif dimanapun kapanpun</p>
+                    <p>Layanan dirumah atau langsung datang ke Klinik? Tidak menjadi masalah. Flexibilitas layanan Trustmedika membantu Anda tetap aktif dimanapun kapanpun</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
@@ -73,46 +73,47 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Services</h2>
+          <h2>Layanan</h2>
         </div>
 
-        <div class="row">
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="icon-box">
+        <div class="row align-items-stretch">
+          <div class="col-lg-3 col-md-6">
+            <div class="icon-box h-100 d-flex flex-column align-items-stretch">
               <div class="icon"><i class="fas fa-heartbeat"></i></div>
               <h4><a href="">Test Covid-19</a></h4>
-              <p>Mendeteksi virus covid-19 dengan Test Rapid Antibodi, Swab Antigen, dan Swab PCR.
+              <p class="mb-auto">Mendeteksi virus covid-19 dengan Test Rapid Antibodi, Swab Antigen, dan Swab PCR.
 
               Untuk mendapatkan layanan ini, Anda dapat langsung menghubungi Kami langsung untuk respon yang lebih cepat atau klik Daftar sekarang dan Medical Assistant Kami akan menghubungi anda dalam 3x60 Menit</p>
 
-               <a href="#" class="btn btn-l1 more-btn">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+              <a href="#" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-            <div class="icon-box">
+          <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+            <div class="icon-box h-100 d-flex flex-column align-items-stretch">
               <div class="icon"><i class="fas fa-pills"></i></div>
               <h4><a href="">Vaksinasi Corporate</a></h4>
-              <p>Vaksinasi untuk membantu membentuk imunitas tubuh karyawan dan keluarga karyawan. Layanan ini mengedepankan flexibilitas bagi perusahaan yang mengedepankan kesejahteraan dan Kesehatan keluarga karyawan, namun tetap mengedepankan efisiensi dan efektifitas program Kesehatan.</p>
-               <a href="#" class="btn btn-l1 more-btn">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
-            </div>
+              <p class="mb-auto">Vaksinasi untuk membantu membentuk imunitas tubuh karyawan dan keluarga karyawan. Layanan ini mengedepankan flexibilitas bagi perusahaan yang mengedepankan kesejahteraan dan Kesehatan keluarga karyawan, namun tetap mengedepankan efisiensi dan efektifitas program Kesehatan.</p>
+               <a href="#" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="icon-box">
+          <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+            <div class="icon-box h-100 d-flex flex-column align-items-stretch">
               <div class="icon"><i class="fas fa-hospital-user"></i></div>
               <h4><a href="">Cek Lab di Rumah</a></h4>
-              <p>Cek immunologi hepatitis A, B, C, HIV, cek darah lengkap, cek urin lengkap, hingga paket medical check up langsung dari rumah.</p>
-               <a href="#" class="btn btn-l1 more-btn">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+              <p class="mb-auto">Cek immunologi hepatitis A, B, C, HIV, cek darah lengkap, cek urin lengkap, hingga paket medical check up langsung dari rumah.</p>
+               <a href="#" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-            <div class="icon-box">
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+            <div class="icon-box h-100 d-flex flex-column align-items-stretch">
               <div class="icon"><i class="fas fa-dna"></i></div>
               <h4><a href="">Psikolog</a></h4>
-              <p>Membantu meningktkan kesehatan jiwa dan membentuk semangat baru bagi karyawan anda</p>
-               <a href="#" class="btn btn-l1 more-btn">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+              <p class="mb-auto">Membantu meningktkan kesehatan jiwa dan membentuk semangat baru bagi karyawan anda</p>
+               <a href="#" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 

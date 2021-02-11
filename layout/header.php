@@ -8,8 +8,10 @@
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="nav-link scrollto active" href="#jumbo">Beranda</a></li>
-          <li><a class="nav-link scrollto" href="#about">Tentang Kami</a></li>
           <li><a class="nav-link scrollto" href="#services">Layanan</a></li>
-        
+          <li><a class="nav-link scrollto" href="#about">Tentang Kami</a></li>
+        </ul>
+        <i class="bi mobile-nav-toggle bi-list"></i>
+      </nav>
     </div>
   </header><!-- End Header -->
