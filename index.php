@@ -84,6 +84,8 @@
               <p>Mendeteksi virus covid-19 dengan Test Rapid Antibodi, Swab Antigen, dan Swab PCR.
 
               Untuk mendapatkan layanan ini, Anda dapat langsung menghubungi Kami langsung untuk respon yang lebih cepat atau klik Daftar sekarang dan Medical Assistant Kami akan menghubungi anda dalam 3x60 Menit</p>
+
+               <a href="#" class="btn btn-l1 more-btn">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 
@@ -92,6 +94,7 @@
               <div class="icon"><i class="fas fa-pills"></i></div>
               <h4><a href="">Vaksinasi Corporate</a></h4>
               <p>Vaksinasi untuk membantu membentuk imunitas tubuh karyawan dan keluarga karyawan. Layanan ini mengedepankan flexibilitas bagi perusahaan yang mengedepankan kesejahteraan dan Kesehatan keluarga karyawan, namun tetap mengedepankan efisiensi dan efektifitas program Kesehatan.</p>
+               <a href="#" class="btn btn-l1 more-btn">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 
@@ -100,6 +103,7 @@
               <div class="icon"><i class="fas fa-hospital-user"></i></div>
               <h4><a href="">Cek Lab di Rumah</a></h4>
               <p>Cek immunologi hepatitis A, B, C, HIV, cek darah lengkap, cek urin lengkap, hingga paket medical check up langsung dari rumah.</p>
+               <a href="#" class="btn btn-l1 more-btn">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 
@@ -108,6 +112,7 @@
               <div class="icon"><i class="fas fa-dna"></i></div>
               <h4><a href="">Psikolog</a></h4>
               <p>Membantu meningktkan kesehatan jiwa dan membentuk semangat baru bagi karyawan anda</p>
+               <a href="#" class="btn btn-l1 more-btn">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 
