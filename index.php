@@ -10,155 +10,155 @@
 
   <!-- ======= Jumbo Section ======= -->
   <section id="jumbo" class="d-flex align-items-center">
-  <div class="container">
-    <h1>Temukan Klinik</h1>
-    <h2>Tes Covid-19 cepat, akurat, dan 
-    flexible</h2>
-    <a href="#appointment" class="btn-get-started scrollto">Daftar Sekarang</a>
-  </div>
+    <div class="container">
+      <h1>Temukan Klinik</h1>
+      <h2>Tes Covid-19 cepat, akurat, dan 
+      flexible</h2>
+      <a href="#appointment" class="btn-get-started scrollto">Daftar Sekarang</a>
+    </div>
   </section><!-- End Jumbo -->
 
   <main id="main">
 
-  <!-- ======= Why Us Section ======= -->
-  <section id="why-us" class="why-us">
-    <div class="container">
-    <div class="row">
-      <div class="col-lg-4 d-flex align-items-stretch">
-      <div class="content">
-        <h3>Why Choose Trustmedika?</h3>
-        <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-        Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
-        </p>
-        <div class="text-center">
-        <a href="#" class="btn btn-l1 more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
-        </div>
-      </div>
-      </div>
-      <div class="col-lg-8 d-flex align-items-stretch">
-      <div class="icon-boxes d-flex flex-column justify-content-center">
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us">
+      <div class="container">
         <div class="row">
-        <div class="col-xl-4 d-flex align-items-stretch">
-          <div class="icon-box mt-4 mt-xl-0">
-          <i class="bx bx-receipt"></i>
-          <h4>FLEXIBLE</h4>
-          <p>Layanan dirumah atau langsung datang ke Klinik ? Tidak menjadi masalah. Flexibilitas layanan Trustmedika membantu Anda tetap aktif dimanapun kapanpun</p>
+          <div class="col-lg-4 d-flex align-items-stretch">
+            <div class="content">
+              <h3>Kenapa Memilih kami ?</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+              </p>
+              <div class="text-center">
+                <a href="#" class="btn btn-l1 more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-8 d-flex align-items-stretch">
+            <div class="icon-boxes d-flex flex-column justify-content-center">
+              <div class="row">
+                <div class="col-xl-4 d-flex align-items-stretch">
+                  <div class="icon-box mt-4 mt-xl-0">
+                    <i class="bx bx-receipt"></i>
+                    <h4>FLEXIBLE</h4>
+                    <p>Layanan dirumah atau langsung datang ke Klinik ? Tidak menjadi masalah. Flexibilitas layanan Trustmedika membantu Anda tetap aktif dimanapun kapanpun</p>
+                  </div>
+                </div>
+                <div class="col-xl-4 d-flex align-items-stretch">
+                  <div class="icon-box mt-4 mt-xl-0">
+                    <i class="bx bx-cube-alt"></i>
+                    <h4>AKURAT</h4>
+                    <p>Akurasi Bersama para tim professional dilakukan di seluruh laboratorium dan klinik mitra kami. Pengawasan kualitas tertinggi dikedepankan oleh Tim Trustmedika QA24.</p>
+                  </div>
+                </div>
+                <div class="col-xl-4 d-flex align-items-stretch">
+                  <div class="icon-box mt-4 mt-xl-0">
+                    <i class="bx bx-images"></i>
+                    <h4>CEPAT DAN TERJANGKAU</h4>
+                    <p>Tanpa antri lama dan hasil yang cepat dengan harga terjangkau adalah prioritas layanan Kami</p>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End .content-->
           </div>
         </div>
-        <div class="col-xl-4 d-flex align-items-stretch">
-          <div class="icon-box mt-4 mt-xl-0">
-          <i class="bx bx-cube-alt"></i>
-          <h4>AKURAT</h4>
-          <p>Akurasi Bersama para tim professional dilakukan di seluruh laboratorium dan klinik mitra kami. Pengawasan kualitas tertinggi dikedepankan oleh Tim Trustmedika QA24.</p>
+
+      </div>
+    </section><!-- End Why Us Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Services</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-heartbeat"></i></div>
+              <h4><a href="">Test Covid-19</a></h4>
+              <p>Mendeteksi virus covid-19 dengan Test Rapid Antibodi, Swab Antigen, dan Swab PCR.
+
+              Untuk mendapatkan layanan ini, Anda dapat langsung menghubungi Kami langsung untuk respon yang lebih cepat atau klik Daftar sekarang dan Medical Assistant Kami akan menghubungi anda dalam 3x60 Menit</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-pills"></i></div>
+              <h4><a href="">Vaksinasi Corporate</a></h4>
+              <p>Vaksinasi untuk membantu membentuk imunitas tubuh karyawan dan keluarga karyawan. Layanan ini mengedepankan flexibilitas bagi perusahaan yang mengedepankan kesejahteraan dan Kesehatan keluarga karyawan, namun tetap mengedepankan efisiensi dan efektifitas program Kesehatan.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-hospital-user"></i></div>
+              <h4><a href="">Cek Lab di Rumah</a></h4>
+              <p>Cek immunologi hepatitis A, B, C, HIV, cek darah lengkap, cek urin lengkap, hingga paket medical check up langsung dari rumah.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+            <div class="icon-box">
+              <div class="icon"><i class="fas fa-dna"></i></div>
+              <h4><a href="">Psikolog</a></h4>
+              <p>Membantu meningktkan kesehatan jiwa dan membentuk semangat baru bagi karyawan anda</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container-fluid">
+
+        <div class="row">
+          <div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch position-relative">
+
+          </div>
+
+          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+            <h3>TrustMedika</h3>
+            <p>
+              Trustmedika adalah integrator Klinik, Konsultan kesehatan, dan Laboratorium terpecaya di Indonesia yang mengedepankan hasil observasi laboratorium dan pengobatan.
+
+              Trustmedika hadir untuk membantu masyarakat mendapatkan klinik terpercaya dengan lebih mudah dengan standarisasi yang telah Trustmedika tetapkan.
+
+            Saatnya world class health clinic  dapat diakses dengan mudah oleh Anda dan keluarga. Hubungi Medical Assistant Anda hari ini untuk mendapatkan layanan konsultasi Cuma-Cuma.</p>
+
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-fingerprint"></i></div>
+              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            </div>
+
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-gift"></i></div>
+              <h4 class="title"><a href="">Nemo Enim</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            </div>
+
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-atom"></i></div>
+              <h4 class="title"><a href="">Dine Pad</a></h4>
+              <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+            </div>
+
           </div>
         </div>
-        <div class="col-xl-4 d-flex align-items-stretch">
-          <div class="icon-box mt-4 mt-xl-0">
-          <i class="bx bx-images"></i>
-          <h4>CEPAT DAN TERJANGKAU</h4>
-          <p>Tanpa antri lama dan hasil yang cepat dengan harga terjangkau adalah prioritas layanan Kami</p>
-          </div>
-        </div>
-        </div>
-      </div><!-- End .content-->
-      </div>
-    </div>
-
-    </div>
-  </section><!-- End Why Us Section -->
-
-  <!-- ======= Services Section ======= -->
-  <section id="services" class="services">
-    <div class="container">
-
-    <div class="section-title">
-      <h2>Services</h2>
-    </div>
-
-    <div class="row">
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-      <div class="icon-box">
-        <div class="icon"><i class="fas fa-heartbeat"></i></div>
-        <h4><a href="">Test Covid-19</a></h4>
-        <p>Mendeteksi virus covid-19 dengan Test Rapid Antibodi, Swab Antigen, dan Swab PCR.
-
-        Untuk mendapatkan layanan ini, Anda dapat langsung menghubungi Kami langsung untuk respon yang lebih cepat atau klik Daftar sekarang dan Medical Assistant Kami akan menghubungi anda dalam 3x60 Menit</p>
-      </div>
-      </div>
-
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-      <div class="icon-box">
-        <div class="icon"><i class="fas fa-pills"></i></div>
-        <h4><a href="">Vaksinasi Corporate</a></h4>
-        <p>Vaksinasi untuk membantu membentuk imunitas tubuh karyawan dan keluarga karyawan. Layanan ini mengedepankan flexibilitas bagi perusahaan yang mengedepankan kesejahteraan dan Kesehatan keluarga karyawan, namun tetap mengedepankan efisiensi dan efektifitas program Kesehatan.</p>
-      </div>
-      </div>
-
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-      <div class="icon-box">
-        <div class="icon"><i class="fas fa-hospital-user"></i></div>
-        <h4><a href="">Cek Lab di Rumah</a></h4>
-        <p>Cek immunologi hepatitis A, B, C, HIV, cek darah lengkap, cek urin lengkap, hingga paket medical check up langsung dari rumah.</p>
-      </div>
-      </div>
-
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-      <div class="icon-box">
-        <div class="icon"><i class="fas fa-dna"></i></div>
-        <h4><a href="">Psikolog</a></h4>
-        <p>Membantu meningktkan kesehatan jiwa dan membentuk semangat baru bagi karyawan anda</p>
-      </div>
-      </div>
-
-    </div>
-
-    </div>
-  </section><!-- End Services Section -->
-
-  <!-- ======= About Section ======= -->
-  <section id="about" class="about">
-    <div class="container-fluid">
-
-    <div class="row">
-      <div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch position-relative">
-   
-      </div>
-
-      <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-      <h3>TrustMedika</h3>
-      <p>
-        Trustmedika adalah integrator Klinik, Konsultan kesehatan, dan Laboratorium terpecaya di Indonesia yang mengedepankan hasil observasi laboratorium dan pengobatan.
-
-        Trustmedika hadir untuk membantu masyarakat mendapatkan klinik terpercaya dengan lebih mudah dengan standarisasi yang telah Trustmedika tetapkan.
-
-        Saatnya world class health clinic  dapat diakses dengan mudah oleh Anda dan keluarga. Hubungi Medical Assistant Anda hari ini untuk mendapatkan layanan konsultasi Cuma-Cuma.</p>
-
-      <div class="icon-box">
-        <div class="icon"><i class="bx bx-fingerprint"></i></div>
-        <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-        <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-      </div>
-
-      <div class="icon-box">
-        <div class="icon"><i class="bx bx-gift"></i></div>
-        <h4 class="title"><a href="">Nemo Enim</a></h4>
-        <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-      </div>
-
-      <div class="icon-box">
-        <div class="icon"><i class="bx bx-atom"></i></div>
-        <h4 class="title"><a href="">Dine Pad</a></h4>
-        <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-      </div>
 
       </div>
-    </div>
+    </section><!-- End About Section -->
 
-    </div>
-  </section><!-- End About Section -->
-
-  <!-- ======= Counts Section ======= -->
+    <!-- ======= Counts Section ======= -->
 <!--   <section id="counts" class="counts">
     <div class="container">
 
@@ -208,17 +208,17 @@
   <section id="appointment" class="appointment section-bg">
     <div class="container">
 
-    <div class="section-title">
-      <h2>Daftar Sekarang Juga</h2>
-      <p>Silahkan isi form pada link dibawah</p>
-    </div>
-    <div class="text-center">
-      <a href="https://forms.google.com" class="btn btn-utama">
-        <i class="bi bi-journal-text"></i>
-        <span class="mx-3"> Daftar Sekarang Juga </span>
-        <i class="bi bi-link-45deg"></i>
-      </a>
-    </div>
+      <div class="section-title">
+        <h2>Daftar Sekarang Juga</h2>
+        <p>Silahkan isi form pada link dibawah</p>
+      </div>
+      <div class="text-center">
+        <a href="https://forms.google.com" class="btn btn-utama">
+          <i class="bi bi-journal-text"></i>
+          <span class="mx-3"> Daftar Sekarang Juga </span>
+          <i class="bi bi-link-45deg"></i>
+        </a>
+      </div>
 
     </div>
   </section><!-- End Appointment Section -->
@@ -712,11 +712,11 @@
     </div>
   </section> --><!-- End Contact Section -->
 
-  </main><!-- End #main -->
+</main><!-- End #main -->
 
-  <?php include("layout/foot.php") ?>
-  <?php include("layout/misc.php") ?>
-  <?php include("layout/footer.php") ?>
+<?php include("layout/foot.php") ?>
+<?php include("layout/misc.php") ?>
+<?php include("layout/footer.php") ?>
 </body>
 
 </html>
