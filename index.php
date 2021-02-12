@@ -85,7 +85,7 @@
 
               Untuk mendapatkan layanan ini, Anda dapat langsung menghubungi Kami langsung untuk respon yang lebih cepat atau klik Daftar sekarang dan Medical Assistant Kami akan menghubungi anda dalam 3x60 Menit</p>
 
-              <a href="#" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+              <a href="https://forms.google.com" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 
@@ -94,7 +94,7 @@
               <div class="icon"><i class="fas fa-pills"></i></div>
               <h4><a href="">Vaksinasi Corporate</a></h4>
               <p class="mb-auto">Vaksinasi untuk membantu membentuk imunitas tubuh karyawan dan keluarga karyawan. Layanan ini mengedepankan flexibilitas bagi perusahaan yang mengedepankan kesejahteraan dan Kesehatan keluarga karyawan, namun tetap mengedepankan efisiensi dan efektifitas program Kesehatan.</p>
-               <a href="#" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+               <a href="https://forms.google.com" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
              </div>
           </div>
 
@@ -103,7 +103,7 @@
               <div class="icon"><i class="fas fa-hospital-user"></i></div>
               <h4><a href="">Cek Lab di Rumah</a></h4>
               <p class="mb-auto">Cek immunologi hepatitis A, B, C, HIV, cek darah lengkap, cek urin lengkap, hingga paket medical check up langsung dari rumah.</p>
-               <a href="#" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+               <a href="https://forms.google.com" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 
@@ -113,7 +113,7 @@
               <div class="icon"><i class="fas fa-dna"></i></div>
               <h4><a href="">Psikolog</a></h4>
               <p class="mb-auto">Membantu meningktkan kesehatan jiwa dan membentuk semangat baru bagi karyawan anda</p>
-               <a href="#" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+               <a href="https://forms.google.com" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
 
@@ -121,6 +121,27 @@
 
       </div>
     </section><!-- End Services Section -->
+
+
+  <!-- ======= Appointment Section ======= -->
+  <section id="appointment" class="appointment section-bg">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Daftar Sekarang Juga</h2>
+        <p>Silahkan isi form pada link dibawah</p>
+      </div>
+      <div class="text-center">
+        <a href="https://forms.google.com" class="btn btn-utama">
+          <i class="bi bi-journal-text"></i>
+          <span class="mx-3"> Daftar Sekarang Juga </span>
+          <i class="bi bi-link-45deg"></i>
+        </a>
+      </div>
+
+    </div>
+  </section><!-- End Appointment Section -->
+
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
@@ -132,9 +153,9 @@
           </div>
 
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-            <h3>TrustMedika</h3>
+            <h3>Tentang Kami</h3>
             <p>
-              Trustmedika adalah integrator Klinik, Konsultan kesehatan, dan Laboratorium terpecaya di Indonesia yang mengedepankan hasil observasi laboratorium dan pengobatan.
+              <b> Trustmedika </b> adalah integrator Klinik, Konsultan kesehatan, dan Laboratorium terpecaya di Indonesia yang mengedepankan hasil observasi laboratorium dan pengobatan.
 
               Trustmedika hadir untuk membantu masyarakat mendapatkan klinik terpercaya dengan lebih mudah dengan standarisasi yang telah Trustmedika tetapkan.
 
@@ -209,25 +230,6 @@
   <!-- End Counts Section -->
 
   
-
-  <!-- ======= Appointment Section ======= -->
-  <section id="appointment" class="appointment section-bg">
-    <div class="container">
-
-      <div class="section-title">
-        <h2>Daftar Sekarang Juga</h2>
-        <p>Silahkan isi form pada link dibawah</p>
-      </div>
-      <div class="text-center">
-        <a href="https://forms.google.com" class="btn btn-utama">
-          <i class="bi bi-journal-text"></i>
-          <span class="mx-3"> Daftar Sekarang Juga </span>
-          <i class="bi bi-link-45deg"></i>
-        </a>
-      </div>
-
-    </div>
-  </section><!-- End Appointment Section -->
 
   <!-- ======= Departments Section ======= -->
 <!--   <section id="departments" class="departments">
