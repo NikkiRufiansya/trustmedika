@@ -112,7 +112,7 @@
             <div class="icon-box h-100 d-flex flex-column align-items-stretch">
               <div class="icon"><i class="fas fa-dna"></i></div>
               <h4><a href="">Psikolog</a></h4>
-              <p class="mb-auto">Membantu meningktkan kesehatan jiwa dan membentuk semangat baru bagi karyawan anda</p>
+              <p class="mb-auto">Membantu meningkatkan kesehatan jiwa dan membentuk semangat baru bagi karyawan anda</p>
                <a href="https://forms.google.com" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
             </div>
           </div>
