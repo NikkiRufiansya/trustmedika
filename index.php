@@ -31,10 +31,10 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
                 Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
               </p>
-              <div class="text-center">
+           <!--    <div class="text-center">
                 <a href="#" class="btn btn-l1 more-btn">Pelajari Lebih Lanjut <i class="bx bx-chevron-right"></i></a>
               </div>
-            </div>
+ -->            </div>
           </div>
           <div class="col-lg-8 d-flex align-items-stretch">
             <div class="icon-boxes d-flex flex-column justify-content-center">
