@@ -128,13 +128,13 @@
     <div class="container">
 
       <div class="section-title">
-        <h2>Daftar Sekarang Juga</h2>
-        <p>Silahkan isi form pada link dibawah</p>
+        <h2>Jika ada pertanyaan, Silahkan Menghubungi Kami</h2>
+        <p>Untuk respon lebih cepat silahkan menghubungi kami melalui Whatsapp !</p>
       </div>
       <div class="text-center">
-        <a href="https://forms.google.com" class="btn btn-utama">
+        <a href="https://api.whatsapp.com/send/?phone=62811143141&text=Halo%2C+saya+ingin+menanyakan+beberapa+hal+terkait+layanan+TrustMedika&app_absent=0" class="btn btn-utama" target="_blank">
           <i class="bi bi-journal-text"></i>
-          <span class="mx-3"> Daftar Sekarang Juga </span>
+          <span class="mx-3">Hubungi Sekarang</span>
           <i class="bi bi-link-45deg"></i>
         </a>
       </div>
