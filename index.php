@@ -28,8 +28,7 @@
             <div class="content">
               <h3>Kenapa Memilih Kami?</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+                Kami memiliki tim berpengalaman dan profesional yang telah melayani ribuan pelanggan. Mengedepankan kualitas dan kemudahan akses bagi semua masyarakat.
               </p>
            <!--    <div class="text-center">
                 <a href="#" class="btn btn-l1 more-btn">Pelajari Lebih Lanjut <i class="bx bx-chevron-right"></i></a>
@@ -85,7 +84,7 @@
 
               Untuk mendapatkan layanan ini, Anda dapat langsung menghubungi Kami langsung untuk respon yang lebih cepat atau klik Daftar sekarang dan Medical Assistant Kami akan menghubungi anda dalam 3x60 Menit</p>
 
-              <a href="https://forms.google.com" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+              <a href="https://forms.google.com" class="btn btn-warning">Daftar Sekarang </i></a>
             </div>
           </div>
 
@@ -94,7 +93,7 @@
               <div class="icon"><i class="fas fa-pills"></i></div>
               <h4><a href="">Vaksinasi Corporate</a></h4>
               <p class="mb-auto">Vaksinasi untuk membantu membentuk imunitas tubuh karyawan dan keluarga karyawan. Layanan ini mengedepankan flexibilitas bagi perusahaan yang mengedepankan kesejahteraan dan Kesehatan keluarga karyawan, namun tetap mengedepankan efisiensi dan efektifitas program Kesehatan.</p>
-               <a href="https://forms.google.com" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+               <a href="" class="btn btn-warning">Coming Soon </i></a>
              </div>
           </div>
 
@@ -103,7 +102,7 @@
               <div class="icon"><i class="fas fa-hospital-user"></i></div>
               <h4><a href="">Cek Lab di Rumah</a></h4>
               <p class="mb-auto">Cek immunologi hepatitis A, B, C, HIV, cek darah lengkap, cek urin lengkap, hingga paket medical check up langsung dari rumah.</p>
-               <a href="https://forms.google.com" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+               <a href="" class="btn btn-warning">Coming Soon </i></a>
             </div>
           </div>
 
@@ -113,7 +112,7 @@
               <div class="icon"><i class="fas fa-dna"></i></div>
               <h4><a href="">Psikolog</a></h4>
               <p class="mb-auto">Membantu meningkatkan kesehatan jiwa dan membentuk semangat baru bagi karyawan anda</p>
-               <a href="https://forms.google.com" class="btn btn-l1 more-btn mt-3">Daftar Sekarang <i class="bx bx-chevron-right"></i></a>
+               <a href="" class="btn btn-warning">Coming Soon </i></a>
             </div>
           </div>
 
@@ -128,11 +127,11 @@
     <div class="container">
 
       <div class="section-title">
-        <h2>Jika ada pertanyaan, Silahkan Menghubungi Kami</h2>
+        <h2>Tes Covid Sekarang, Segera daftarkan diri anda</h2>
         <p>Untuk respon lebih cepat silahkan menghubungi kami melalui Whatsapp !</p>
       </div>
       <div class="text-center">
-        <a href="https://api.whatsapp.com/send/?phone=62811143141&text=Halo%2C+saya+ingin+menanyakan+beberapa+hal+terkait+layanan+TrustMedika&app_absent=0" class="btn btn-utama" target="_blank">
+        <a href="https://api.whatsapp.com/send/?phone=6281333836091&text=Halo%2C+saya+ingin+menanyakan+beberapa+hal+terkait+layanan+TrustMedika&app_absent=0" class="btn btn-utama" target="_blank">
           <i class="bi bi-journal-text"></i>
           <span class="mx-3">Hubungi Sekarang</span>
           <i class="bi bi-link-45deg"></i>
@@ -162,21 +161,21 @@
             Saatnya world class health clinic  dapat diakses dengan mudah oleh Anda dan keluarga. Hubungi Medical Assistant Anda hari ini untuk mendapatkan layanan konsultasi Cuma-Cuma.</p>
 
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <div class="icon"><i class="bx bx-medal"></i></div>
+              <h4 class="title"><a href="">High standards</a></h4>
+              <p class="description">Kami menyediakan hasil observasi laboratorium yang terpecaya</p>
             </div>
 
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <div class="icon"><i class="bx bx-walk"></i></div>
+              <h4 class="title"><a href="">Tim Profesional</a></h4>
+              <p class="description">Kami terdiri dari tim yang profesional yang telah melayani ribuan pelanggan</p>
             </div>
 
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-atom"></i></div>
-              <h4 class="title"><a href="">Dine Pad</a></h4>
-              <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+              <div class="icon"><i class="bx bx-happy"></i></div>
+              <h4 class="title"><a href="">Prioritas Pelanggan</a></h4>
+              <p class="description">Kami tidak akan pernah berhenti untuk terus memberikan kamudahan layanan kesehatan yang terbaik</p>
             </div>
 
           </div>
