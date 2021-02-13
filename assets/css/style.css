@@ -783,6 +783,15 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+#about{
+  padding-top:0px;
+}
+
+@media (min-width: 992px){
+  #about {
+    padding-bottom:0px;
+  }
+}
 .about .icon-boxes h4 {
   font-size: 18px;
   color: #4b7dab;
@@ -851,7 +860,7 @@ section {
 .about .video-box {
   background: url("../img/about.jpg") center center no-repeat;
   background-size: cover;
-  min-height: 30vh;
+  min-height: 40vh;
 }
 
 .about .play-btn {
