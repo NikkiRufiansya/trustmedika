@@ -84,7 +84,7 @@
 
               Untuk mendapatkan layanan ini, Anda dapat langsung menghubungi Kami langsung untuk respon yang lebih cepat atau klik Daftar sekarang dan Medical Assistant Kami akan menghubungi anda dalam 3x60 Menit</p>
 
-              <a href="https://forms.google.com" class="btn btn-warning">Daftar Sekarang </i></a>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsvspEz35X2BiGO34woZexGxAFkBBxOquuYKPnDpserz72Ig/viewform" target="_blank" class="btn btn-warning">Daftar Sekarang </i></a>
             </div>
           </div>
 
@@ -128,12 +128,12 @@
 
       <div class="section-title">
         <h2>Tes Covid Sekarang, Segera daftarkan diri anda</h2>
-        <p>Apabila ada kendala dan keluhan pelayanan silahkan hubungi kami melalui WhatsApp</p>
+        <p>Apabila ada kendala dan keluhan pelayanan silahkan hubungi kami melalui WhatsApp </p>
       </div>
       <div class="text-center">
         <a href="https://api.whatsapp.com/send/?phone=6281333836091&text=Halo%2C+saya+ingin+menanyakan+beberapa+hal+terkait+layanan+TrustMedika&app_absent=0" class="btn btn-utama" target="_blank">
           <i class="bi bi-journal-text"></i>
-          <span class="mx-3">Hubungi Sekarang</span>
+          <span class="mx-3">Daftar Sekarang</span>
           <i class="bi bi-link-45deg"></i>
         </a>
       </div>
