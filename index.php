@@ -132,9 +132,9 @@
       </div>
       <div class="text-center">
         <a href="https://api.whatsapp.com/send/?phone=6281333836091&text=Halo%2C+saya+ingin+menanyakan+beberapa+hal+terkait+layanan+TrustMedika&app_absent=0" class="btn btn-utama" target="_blank">
-          <i class="bi bi-journal-text"></i>
+         <!--  <i class="bi bi-journal-text"></i> -->
           <span class="mx-3">Daftar Sekarang</span>
-          <i class="bi bi-link-45deg"></i>
+          <i class="bi bi bi-whatsapp"></i>
         </a>
       </div>
 
